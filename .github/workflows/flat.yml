@@ -24,3 +24,4 @@ jobs:
           http_url: https://conoroneill.com/index.xml
           downloaded_filename: conor_rss.xml
           postprocess: postprocess.ts
+          
